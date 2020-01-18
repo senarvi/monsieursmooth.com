@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+---
+layout: collection
+limit: 9
+show_excerpts: true
+entries_layout: grid
+---
+
+## Welcome to GitHub Pages XX
 
 You can use the [editor on GitHub](https://github.com/senarvi/monsieursmooth.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

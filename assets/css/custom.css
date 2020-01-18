@@ -1,11 +1,14 @@
 .no-border table {
-  border: 0px;
+  border: 0;
+  margin: 0;
 }
 
 .no-border th {
-  border: 0px;
+  border: 0;
+  margin: 0;
 }
 
 .no-border td {
-  border: 0px;
+  border: 0;
+  margin: 0;
 }
