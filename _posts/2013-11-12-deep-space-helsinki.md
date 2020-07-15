@@ -7,4 +7,4 @@ image:
 ---
 
 Mr. Smooth and Opa visited Deep Space Helsinki radio show on Bassoradio on November 12, 2013, for a discussion about Entropy organization and the 20 Years of Entropy party.
-Check out the recording on [Soundcloud](https://soundcloud.com/deep-space-helsinki/deep-space-helsinki-12th).
+Check out the recording on [SoundCloud](https://soundcloud.com/deep-space-helsinki/deep-space-helsinki-12th).
